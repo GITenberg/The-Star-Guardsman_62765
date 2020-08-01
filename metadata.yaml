@@ -1,0 +1,27 @@
+_repo: The-Star-Guardsman_62765
+_version: 0.0.1
+creator:
+  author:
+    agent_name: dePina, Albert
+    aliases:
+    - dePina, Robert Albert
+    - Pina, Albert de
+    deathdate: 1957
+    gutenberg_agent_id: '51852'
+    url: http://www.gutenberg.org/2009/agents/51852
+description: ''
+gutenberg_issued: '2020-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: The Star Guardsman
+url: http://www.gutenberg.org/ebooks/62765
